@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ELDEN RING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SCAFFX&fontSize=80&fontColor=C9A84C&fontAlignY=38&desc=Tarnished%20Developer%20%7C%20Seeker%20of%20Code&descColor=A89060&descAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SCAFFX&fontSize=80&fontColor=C9A84C&fontAlignY=38&desc=Tarnished Developer • Seeker of Clean Code&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=18&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=⚔️+Arise%2C+ye+Tarnished...+⚔️;May+Grace+guide+thy+commits.;Thou+art+no+mere+developer.;The+Elden+Ring+has+been+restored...+in+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=18&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=⚔️+Arise%2C+ye+Tarnished...+⚔️;May+Grace+guide+thy+commits...;In+the+Lands+Between+lines+of+code..."/>
 
 ---
 
-![](https://img.shields.io/badge/ELDEN%20RING%20DEVELOPER-C9A84C?style=for-the-badge&logoColor=1a1a1a&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Elden%20Ring%20Fan-C9A84C?style=for-the-badge&logoColor=1a1a1a&labelColor=1a1a1a)
 ![](https://img.shields.io/badge/Tarnished%20Coder-%231a1a1a?style=for-the-badge&labelColor=C9A84C&color=1a1a1a)
 ![](https://komarev.com/ghpvc/?username=Scaffx&style=for-the-badge&color=C9A84C&label=Tarnished+Visitors&labelColor=1a1a1a)
 
@@ -19,25 +19,11 @@
 
 ## ⚔️ *"The Elden Ring has been shattered... but my code shall restore it."* ⚔️
 
-</div>
+<img src="https://i.imgur.com/Q3oIdkO.png" width="600" alt="Elden Ring - Erdtree"/>
 
-```
-                     ,.. ......,
-                ,addd88888888888888bba,
-             ,d8888P""        ""Y88888b,
-           ,d8888"   ⚔️  SCAFFX  ⚔️   "8888b,
-          d8888"    Tarnished Developer     "8888b
-         d8888'   Seeker of the Elden Ring   '8888b
-        d8888'       May Grace Guide Thee     '8888b
-        8888'                                  '8888
-        Y888b                                  d888P
-         Y888b,    ✦ arise, ye tarnished ✦    ,d888P
-          Y8888b,                           ,d8888P
-           "Y8888ba,                     ,ad8888P"
-             "Y88888bba,           ,aad888888P"
-                ""YY888888888888888888PP""
-                       """"""""""
-```
+> *Arise, ye Tarnished. Ye dead, who yet live...*
+
+</div>
 
 ---
 
@@ -137,6 +123,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=May+the+Grace+guide+thee...&fontSize=20&fontColor=C9A84C&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=May+the+Grace+guide+thee...&fontSize=20&fontColor=C9A84C&fontAlignY=70" width="100%"/>
 
 </div>
