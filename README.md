@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ELDEN RING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SCAFFX&fontSize=80&fontColor=C9A84C&fontAlignY=38&desc=Tarnished Developer • Seeker of Clean Code&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SCAFFX&fontSize=80&fontColor=C9A84C&fontAlignY=38&desc=Tarnished+Developer+•+Seeker+of+Clean+Code&descAlignY=60&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=18&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=⚔️+Arise%2C+ye+Tarnished...+⚔️;May+Grace+guide+thy+commits...;In+the+Lands+Between+lines+of+code..."/>
 
@@ -19,7 +19,7 @@
 
 ## ⚔️ *"The Elden Ring has been shattered... but my code shall restore it."* ⚔️
 
-<img src="https://i.imgur.com/Q3oIdkO.png" width="600" alt="Elden Ring - Erdtree"/>
+<img src="https://images4.alphacoders.com/136/1363594.jpg" width="700" alt="Elden Ring Wallpaper"/>
 
 > *Arise, ye Tarnished. Ye dead, who yet live...*
 
